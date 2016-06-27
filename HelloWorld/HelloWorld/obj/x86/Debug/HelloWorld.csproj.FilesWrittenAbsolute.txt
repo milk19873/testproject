@@ -1,0 +1,10 @@
+/home/rock/ドキュメント/visualstudiocode/HelloWorld/HelloWorld/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/rock/ドキュメント/visualstudiocode/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe.mdb
+/home/rock/ドキュメント/visualstudiocode/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/home/rock/ドキュメント/visualstudiocode/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe
+/home/rock/ドキュメント/visualstudiocode/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe.mdb
+/home/rock/testproject/HelloWorld/HelloWorld/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/rock/testproject/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe.mdb
+/home/rock/testproject/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/home/rock/testproject/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe
+/home/rock/testproject/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe.mdb
